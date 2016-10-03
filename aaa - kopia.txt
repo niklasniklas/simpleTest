@@ -4,11 +4,9 @@
 	b. bbbxx
 	c. ccccccc
 	d. sdkjfskljf
-	e. eeeeeeeee
-	
 	
 2. BBBBBB
-	a. aaaaaaa11111
+	a. aaaaaaa
 	b. bbbbbbxxxxx1234
 	c. ssgsdgsg
 	
